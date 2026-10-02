@@ -1,0 +1,324 @@
+{
+  "review_date": "2026-10-02",
+  "scope": "Visual inspection only: no visible third-party watermark in selected photographs. Publication on source website does not independently verify authorship.",
+  "assets": [
+    {
+      "source_original": "research/assets-original/images-38.jpeg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/38.jpeg",
+      "public_path": "/images/hero/floral-wall-relief.webp",
+      "width": 960,
+      "height": 1280,
+      "alt": "Sculpted white flowers with integrated lights on an interior wall",
+      "review": "No visible third-party watermark; photographed on installation site.",
+      "variants": [
+        {
+          "path": "/images/hero/floral-wall-relief-480w.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 26396
+        },
+        {
+          "path": "/images/hero/floral-wall-relief-960w.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 70972
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-a6.jpg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/a6.jpg",
+      "public_path": "/images/portfolio/peacock-sculpture.webp",
+      "width": 1024,
+      "height": 768,
+      "alt": "Blue and green dimensional peacock sculpture",
+      "review": "No artist watermark; background shop signage is present.",
+      "variants": [
+        {
+          "path": "/images/portfolio/peacock-sculpture-480w.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 66444
+        },
+        {
+          "path": "/images/portfolio/peacock-sculpture-960w.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 199620
+        },
+        {
+          "path": "/images/portfolio/peacock-sculpture-1024w.webp",
+          "width": 1024,
+          "height": 768,
+          "bytes": 226198
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-15.jpeg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/15.jpeg",
+      "public_path": "/images/portfolio/zebra-sculpture.webp",
+      "width": 1600,
+      "height": 1195,
+      "alt": "Painted zebra character sculpture surrounded by workshop materials",
+      "review": "No visible third-party watermark; photographed in workshop.",
+      "variants": [
+        {
+          "path": "/images/portfolio/zebra-sculpture-480w.webp",
+          "width": 480,
+          "height": 358,
+          "bytes": 39710
+        },
+        {
+          "path": "/images/portfolio/zebra-sculpture-960w.webp",
+          "width": 960,
+          "height": 717,
+          "bytes": 117142
+        },
+        {
+          "path": "/images/portfolio/zebra-sculpture-1600w.webp",
+          "width": 1600,
+          "height": 1195,
+          "bytes": 248858
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-26.jpeg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/26.jpeg",
+      "public_path": "/images/portfolio/fairytale-event-stage.webp",
+      "width": 1600,
+      "height": 1195,
+      "alt": "Fairy characters, oversized flowers and a sculpted tree on a decorated stage",
+      "review": "No visible third-party watermark; photographed at event installation.",
+      "variants": [
+        {
+          "path": "/images/portfolio/fairytale-event-stage-480w.webp",
+          "width": 480,
+          "height": 358,
+          "bytes": 42152
+        },
+        {
+          "path": "/images/portfolio/fairytale-event-stage-960w.webp",
+          "width": 960,
+          "height": 717,
+          "bytes": 153762
+        },
+        {
+          "path": "/images/portfolio/fairytale-event-stage-1600w.webp",
+          "width": 1600,
+          "height": 1195,
+          "bytes": 331156
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-41.jpeg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/41.jpeg",
+      "public_path": "/images/portfolio/floral-event-installation.webp",
+      "width": 1600,
+      "height": 1195,
+      "alt": "Large flower arch and fairy sculpture being installed outdoors",
+      "review": "No visible third-party watermark; installation scene.",
+      "variants": [
+        {
+          "path": "/images/portfolio/floral-event-installation-480w.webp",
+          "width": 480,
+          "height": 358,
+          "bytes": 49946
+        },
+        {
+          "path": "/images/portfolio/floral-event-installation-960w.webp",
+          "width": 960,
+          "height": 717,
+          "bytes": 152036
+        },
+        {
+          "path": "/images/portfolio/floral-event-installation-1600w.webp",
+          "width": 1600,
+          "height": 1195,
+          "bytes": 310452
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-57.jpeg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/57.jpeg",
+      "public_path": "/images/portfolio/devotional-sculpture.webp",
+      "width": 1200,
+      "height": 1600,
+      "alt": "Colorfully painted devotional sculpture with an unfinished white bull figure",
+      "review": "No visible third-party watermark; photographed indoors.",
+      "variants": [
+        {
+          "path": "/images/portfolio/devotional-sculpture-480w.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 50262
+        },
+        {
+          "path": "/images/portfolio/devotional-sculpture-960w.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 134130
+        },
+        {
+          "path": "/images/portfolio/devotional-sculpture-1200w.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 181528
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-49.jpeg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/49.jpeg",
+      "public_path": "/images/portfolio/ornamental-set-piece.webp",
+      "width": 720,
+      "height": 540,
+      "alt": "Gold-toned ornamental pedestal in a fabrication workshop",
+      "review": "No visible third-party watermark; workshop scene.",
+      "variants": [
+        {
+          "path": "/images/portfolio/ornamental-set-piece-480w.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 42152
+        },
+        {
+          "path": "/images/portfolio/ornamental-set-piece-720w.webp",
+          "width": 720,
+          "height": 540,
+          "bytes": 73380
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-58.jpeg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/58.jpeg",
+      "public_path": "/images/services/thermocol-eagle.webp",
+      "width": 960,
+      "height": 576,
+      "alt": "Large carved white thermocol eagle head in a workshop",
+      "review": "No visible third-party watermark; unfinished sculpture in workshop.",
+      "variants": [
+        {
+          "path": "/images/services/thermocol-eagle-480w.webp",
+          "width": 480,
+          "height": 288,
+          "bytes": 25052
+        },
+        {
+          "path": "/images/services/thermocol-eagle-960w.webp",
+          "width": 960,
+          "height": 576,
+          "bytes": 65074
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-a8.jpg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/a8.jpg",
+      "public_path": "/images/services/canvas-portrait.webp",
+      "width": 1280,
+      "height": 720,
+      "alt": "Painted portrait in progress on an easel beside its photographic reference",
+      "review": "No visible third-party watermark; workshop scene.",
+      "variants": [
+        {
+          "path": "/images/services/canvas-portrait-480w.webp",
+          "width": 480,
+          "height": 270,
+          "bytes": 16662
+        },
+        {
+          "path": "/images/services/canvas-portrait-960w.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 47264
+        },
+        {
+          "path": "/images/services/canvas-portrait-1280w.webp",
+          "width": 1280,
+          "height": 720,
+          "bytes": 70672
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-16.jpeg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/16.jpeg",
+      "public_path": "/images/services/landscape-model.webp",
+      "width": 1280,
+      "height": 960,
+      "alt": "Detailed miniature landscape model with houses, trees and paths",
+      "review": "No visible third-party watermark; photographed scale model.",
+      "variants": [
+        {
+          "path": "/images/services/landscape-model-480w.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 40738
+        },
+        {
+          "path": "/images/services/landscape-model-960w.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 101008
+        },
+        {
+          "path": "/images/services/landscape-model-1280w.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 139762
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-14.jpeg",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/14.jpeg",
+      "public_path": "/images/process/model-making.webp",
+      "width": 1280,
+      "height": 960,
+      "alt": "People working on a detailed landscape scale model",
+      "review": "No visible third-party watermark; do not identify pictured people by name or role.",
+      "variants": [
+        {
+          "path": "/images/process/model-making-480w.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 45640
+        },
+        {
+          "path": "/images/process/model-making-960w.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 125732
+        },
+        {
+          "path": "/images/process/model-making-1280w.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 172756
+        }
+      ]
+    },
+    {
+      "source_original": "research/assets-original/images-logo-2.png",
+      "source_url": "https://www.prasadartsthermocol3dworks.com/images/logo-2.png",
+      "public_path": "/images/logos/original-prasad-arts-logo.webp",
+      "width": 200,
+      "height": 73,
+      "alt": "Original Prasad Arts business logo from its existing website",
+      "review": "Archived business logo; keep legible and unaltered.",
+      "variants": [
+        {
+          "path": "/images/logos/original-prasad-arts-logo-200w.webp",
+          "width": 200,
+          "height": 73,
+          "bytes": 3180
+        }
+      ]
+    }
+  ]
+}

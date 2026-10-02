@@ -1,0 +1,14 @@
+# Static Apache/Hostinger deployment. Keep established search/backlink URLs alive.
+DirectoryIndex index.html
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^index\.php$ / [R=301,L]
+RewriteRule ^about-us\.php$ /#studio [R=301,L,NE]
+RewriteRule ^gallery\.php$ /#work [R=301,L,NE]
+RewriteRule ^contact-us\.php$ /#enquire [R=301,L,NE]
+RewriteRule ^(birthday-events|event-decoration-movie-settings|fabrication-work|false-ceiling-works|fiber-work|portrait-canvas-art-work|thermocol-3d-work|wall-art-design|wall-murals|wall-texture)\.php$ /#services [R=301,L,NE]
+</IfModule>
+<IfModule mod_headers.c>
+Header set X-Content-Type-Options "nosniff"
+Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

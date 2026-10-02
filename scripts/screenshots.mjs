@@ -1,0 +1,20 @@
+import { chromium } from '@playwright/test';
+import fs from 'node:fs/promises';
+const browser = await chromium.launch({ channel: 'chrome', headless: true });
+const page = await browser.newPage({ viewport: { width: 1440, height: 1000 }, deviceScaleFactor: 1 });
+page.on('pageerror', error => console.error(error));
+await page.emulateMedia({ reducedMotion: 'reduce' });
+await page.goto(process.env.SITE_URL || 'http://127.0.0.1:5173', { waitUntil: 'networkidle' });
+await page.evaluate(async () => {
+  const images = Array.from(document.images);
+  images.forEach(image => { image.loading = 'eager'; });
+  await Promise.all(images.map(image => image.decode().catch(() => {})));
+});
+await fs.mkdir('artifacts', { recursive: true });
+await page.screenshot({ path: 'artifacts/desktop.png', fullPage: true });
+await page.screenshot({ path: 'artifacts/desktop-hero.png' });
+await page.setViewportSize({ width: 390, height: 844 });
+await page.screenshot({ path: 'artifacts/mobile.png', fullPage: true });
+await page.screenshot({ path: 'artifacts/mobile-hero.png' });
+console.log(await page.title());
+await browser.close();

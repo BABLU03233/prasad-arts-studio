@@ -1,0 +1,29 @@
+{
+  "cssSource": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..600;1,500&family=Manrope:wght@400..700&display=swap",
+  "fonts": [
+    {
+      "family": "Cormorant Garamond",
+      "style": "italic",
+      "weight": "500",
+      "filename": "cormorant-garamond-latin-italic.woff2",
+      "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM8.woff2",
+      "bytes": 23924
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "normal",
+      "weight": "400 600",
+      "filename": "cormorant-garamond-latin.woff2",
+      "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
+      "bytes": 37640
+    },
+    {
+      "family": "Manrope",
+      "style": "normal",
+      "weight": "400 700",
+      "filename": "manrope-latin.woff2",
+      "url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+      "bytes": 24836
+    }
+  ]
+}

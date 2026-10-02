@@ -1,0 +1,33 @@
+{
+  "source": "Google Business Profile",
+  "researchDate": "2026-10-02",
+  "researchTimezone": "Asia/Kolkata",
+  "suppliedProfileUrl": "https://share.google/pisOnEZ5HPKDrzKxL",
+  "observedTitleFromRedirect": "Prasad Arts Thermocol 3d design works",
+  "observedKnowledgeGraphEntity": "/g/11vx0zyvtg",
+  "status": "blocked_by_google_unusual_traffic_captcha",
+  "completeArchive": false,
+  "availablePhotoCount": null,
+  "downloadedPhotoCount": 0,
+  "images": [],
+  "verifiedProfileFields": [],
+  "failures": [
+    {
+      "method": "web browsing tool",
+      "result": "Share link and destination profile were not accessible."
+    },
+    {
+      "method": "public HTTP request",
+      "result": "The redirect provided the exact business title and Google entity; the final page contained a JavaScript challenge."
+    },
+    {
+      "method": "isolated headless Chrome",
+      "result": "Google displayed an unusual traffic CAPTCHA. Research stopped without solving or bypassing it. No photo URLs were exposed."
+    }
+  ],
+  "notes": [
+    "The latest user-specified contact number is +919059716009; it was not verified from Google.",
+    "No Google rating, reviews, hours, street address, or photos were retrieved.",
+    "Existing-website photos, if collected elsewhere in this project, are not Google profile downloads."
+  ]
+}

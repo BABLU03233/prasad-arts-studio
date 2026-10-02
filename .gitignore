@@ -1,0 +1,16 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.log
+.env
+.env.*
+!.env.example
+
+# Heavy raw provenance (kept locally in research/, not needed to run the site)
+research/assets-original/
+research/website-webp-archive/
+research/*-master.png
+research/website-contact-sheet-*.jpg
+research/website-preview.jpg
+artifacts/
